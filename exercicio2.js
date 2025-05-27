@@ -17,4 +17,4 @@ for (let i = 0; i < 8; i++) {
     }
 }
 
-alert("A media é: " + media + "\nNúmeros acima da media:\n" + acimaDaMedia);
+alert("A media é: " + media + "\nNumeros acima da media:\n" + acimaDaMedia);
